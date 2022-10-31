@@ -17,7 +17,7 @@ For long-term sustainability I have made sure that all links are functioning cor
 ## Screenshots
 ![alt text](assets/01-html-css-git-challenge-demo.png) 
 ## Link to deployed application
-[Deployed app on GitHub Pages]()
+[Deployed app on GitHub Pages]( https://dlalloyd.github.io/challenge_01/)
 
 ## Link to GitHub repository
 [Link to GitHub repository](https://github.com/dlalloyd/challenge_01)
