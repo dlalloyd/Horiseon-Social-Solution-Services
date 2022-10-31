@@ -10,18 +10,12 @@
   - [Link to GitHub repository](#link-to-github-repository)
 
 ## Description
-description of what the web app does
+The aim was  to refactor the website code to be more descriptive using semantic HTML elements to improve an important aspect of the website: accessibility.
 
-## Usage?
-how to use if thats the case
-
-## Install? 
-how to get the app running
+For long-term sustainability I have made sure that all links are functioning correctly and reworked the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 ## Screenshots
-
-## Technologies used?
-
+![alt text](assets/01-html-css-git-challenge-demo.png) 
 ## Link to deployed application
 [Deployed app on GitHub Pages]()
 
